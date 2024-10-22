@@ -4,8 +4,21 @@
 body {
   font-size: 14px;
 }
-.background_1 {
-  width: 100%;
+.v14_20 {
+  width: 922px;
+  height: 1185px;
+  background: url("../images/v14_20.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_4 {
+  width: 922px;
   height: 100%;
   background: url("../images/v10_4.png");
   background-repeat: no-repeat;
