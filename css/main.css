@@ -1,34 +1,24 @@
-* {
-  box-sizing: border-box;
-}
-body {
-  font-size: 14px;
-}
-.v14_20 {
-  width: 922px;
-  height: 1185px;
-  background: url("../images/v14_20.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v10_4 {
-  width: 922px;
+body,html{
   height: 100%;
-  background: url("../images/v10_4.png");
-  background-repeat: no-repeat;
-  background-position: center center;
+  margin:0;
+}
+
+body{
+  position:relative;
+  padding: 0;
+  font-family: "Titillium Web";
+  color:#fff;
+  width: 100%;
+  background-color: #030000;
+  background-image: url("../images/v14_4.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
+  background-position: 50% 50%;
+}
+#bg{
+  height:100%;
 }
 .v14_6 {
   width: 251px;
